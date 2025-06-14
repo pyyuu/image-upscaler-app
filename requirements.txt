@@ -1,7 +1,7 @@
 streamlit
---find-links https://download.pytorch.org/whl/cpu/torch_stable.html
+--find-links https://download.pytorch.org/whl/torch_stable.html
 torch==1.13.1+cpu
-torchvision==0.14.1+cpu
+torchvision==0.14.1
 numpy==1.23.5
 Pillow
 basicsr==1.4.2
